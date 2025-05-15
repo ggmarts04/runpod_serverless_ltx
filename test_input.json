@@ -1,0 +1,6 @@
+{
+    "input": {
+        "prompt": "A man walks towards a window, looks out, and then turns around... A man walks towards a window, looks out, and then turns around. He has short, dark hair, dark skin, and is wearing a brown coat over a red and gray scarf. He walks from left to right towards a window, his gaze fixed on something outside. The camera follows him from behind at a medium distance. The room is brightly lit, with white walls and a large window covered by a white curtain. As he approaches the window, he turns his head slightly to the left, then back to the right. He then turns his entire body to the right, facing the window. The camera remains stationary as he stands in front of the window. The scene is captured in real-life footage.",
+        "negative_prompt": "worst quality, inconsistent motion, blurry, jittery, distorted"
+    }
+}
