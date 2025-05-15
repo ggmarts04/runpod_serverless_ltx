@@ -5,7 +5,6 @@ WORKDIR /
 COPY requirements.txt /requirements.txt
 RUN pip install -r requirements.txt
 
-COPY models/ /models/
 COPY download_weights.py /download_weights.py
 RUN python /download_weights.py
 
