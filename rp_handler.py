@@ -66,7 +66,8 @@ def handler(event):
 
     return {
         "video_id": video_id,
-        "video_base64": encoded_video
+        "video_base64": encoded_video,
+        "video_src": f"data:video/mp4;base64,{encoded_video}",
     }
 
 if __name__ == '__main__':
